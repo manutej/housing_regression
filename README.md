@@ -4,6 +4,12 @@
 Housing Regression model built on Ames Housing Data and Kaggle Challenge requirements. 
 For this project, 3 types of machine learning models were examined: Multi-parametric Linear Regression, Ridge Regression, and Lasso Regression. Ridge Regression and Lasso Regression are a type of regression that involve scaling and regularization of our data in order by adding an automatically determined level of bias in order to reduce the model complexity and error due to variance. Overall scores for all 3 models fared to be quite similar with R2 scores between 0.84 - 0.86. Since these scores hold true for both testing and train, we can conclude that the model is not overfitting the data. 
 
+## Example Output Images
+![Average Sales Price by Neighborhood](images/neighborhoods_barh.png)
+
+![ML Feature Optimization Example](ml_feature_optimization_dummy_mse.png)
+
+
 ## Code Execution
 
 ### Notebooks
