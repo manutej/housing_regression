@@ -7,7 +7,7 @@ For this project, 3 types of machine learning models were examined: Multi-parame
 ## Example Output Images
 ![Average Sales Price by Neighborhood](images/neighborhoods_barh.png)
 
-![ML Feature Optimization Example](ml_feature_optimization_dummy_mse.png)
+![ML Feature Optimization Example](images/ml_feature_optimization_dummy_mse.png)
 
 
 ## Code Execution
